@@ -1670,3 +1670,12 @@ footer .credits a {
     font-size: 15px;
   }
 }
+
+
+@media ( 576px <= width <=2000px)
+{
+  .work-box{
+    width: 260px;
+  }
+
+}
